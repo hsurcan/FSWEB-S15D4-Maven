@@ -11,7 +11,8 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Veri Yapıları Challenge I
  * Amacımız uygun veri yapısını kullanarak bir string değerinin palindrom olup olmadığına karar vermek.
- * org.example Main sınıfı altında static ```checkForPalindrome``` adında bir method tanımlayınız. Method input olarak bir ```String``` almalı ve ```boolean``` bir değer dönmeli.
+ * org.example Main sınıfı altında static ```checkForPalindrome``` adında bir method tanımlayınız. 
+ * Method input olarak bir ```String``` almalı ve ```boolean``` bir değer dönmeli.
  * İstediğiniz veri yapısını kullanabilirsiniz.
  * String değer .,?!_- gibi değerler içerebilir.Boşluk karakterini içerebilir. String değerleri büyük harfle ya da küçük harfle yazılabilir.
  * Yazacağınız kod bütün bu karakterlere ve küçük harf büyük harfe uygun çalışmalı.
@@ -41,5 +42,6 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
    
  * Matematiksel olarak ilgili cevirme işlemininin nasıl yapıldığıyla ilgili detayı buradan okuyabilirsiniz: https://www.cuemath.com/numbers/decimal-to-binary/
  * Görevimiz Decimal number alıp günün sonunda bu değeri binary formata ceviren bir kod yazmak.
- * Bu işlemi gerçekleştirmek adına org.example Main sınıfı altında static ```convertDecimalToBinary``` adında bir method tanımlayınız. Method input olarak bir ```int``` almalı ve ```String``` bir değer dönmeli.
+ * Bu işlemi gerçekleştirmek adına org.example Main sınıfı altında static ```convertDecimalToBinary``` adında bir method tanımlayınız. 
+ * Method input olarak bir ```int``` almalı ve ```String``` bir değer dönmeli.
  * Bunun için kullanılabilecek en uygun Veri Yapısı hangisi olurdu ? Çözümünüz bu veri yapısını içermeli.
